@@ -7,7 +7,10 @@ Applications or Portfolio:
 Final Fantasy Card Battle, Calculator, SnackSeriously, MTG Card builder
 
 Technologies or Skills:
-Javascript, Node.js, Reactjs, Redux, ES6, jQuery, PHP, Apache, MySQL, HTML5, CSS3, AWS, Bootstrap
+Javascript, Node.js, Reactjs, Redux, ES6, jQuery, PHP, Apache, MySQL, 
+HTML5, CSS3, AWS, Bootstrap
+
+JS / ES6 / HTML5 / CSS3 / React / Redux / jQuery / PHP / Apache / MySQL / AWS / Bootstrap
 
 Tools:
 GitHub, Git, Chrome Dev Tools, Postman, MeisterTask, Slack, Ubuntu, MAMP
