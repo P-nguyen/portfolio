@@ -1,0 +1,29 @@
+
+index-text-rotator.html
+
+
+
+Applications or Portfolio:
+Final Fantasy Card Battle, Calculator, SnackSeriously, MTG Card builder
+
+Technologies or Skills:
+Javascript, Node.js, Reactjs, Redux, ES6, jQuery, PHP, Apache, MySQL, 
+HTML5, CSS3, AWS, Bootstrap
+
+JS / ES6 / HTML5 / CSS3 / React / Redux / jQuery / PHP / Apache / MySQL / AWS / Bootstrap
+
+Tools:
+GitHub, Git, Chrome Dev Tools, Postman, MeisterTask, Slack, Ubuntu, MAMP
+
+About Me:
+My name is Peter Nguyen. I am a Web Developer based in Orange County. I have a passion for problem solving and exploring new ideas.
+I originally started my career in architecture, but during my studies and work experience I quickly found myself learning python to optimize my work flow in both
+creating and documenting geometery for fabricators. I loved figuring out the patterns and logic needed to make my code function and eventually realized I needed 
+to realign my interest towards web development. When i'm not programming you can find me building stuff at home with my CNC mill or 3d printer, but even then I might
+be programming my machines to do the job.
+
+
+Contact:
+
+
+Resume:
