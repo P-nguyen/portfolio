@@ -2721,7 +2721,7 @@ input.searchbox:focus {
 }
 
 .hero-message h1 {
-  color: #fff;
+  color: #333333;
   font-size: 56px;
   font-weight: 700;
   line-height: 1;
@@ -2730,7 +2730,7 @@ input.searchbox:focus {
 .hero-subtitle {
   text-transform: none;
   font-weight: normal;
-  color: #fff;
+  color: #333333;
   line-height: 1.5;
   font-size: 20px;
   max-width: 800px;
