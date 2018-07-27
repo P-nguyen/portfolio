@@ -1586,6 +1586,10 @@ p {
   }
 }
 
+.sub-heading {
+  margin-top: 60px;
+}
+
 .process-wrap {
   height: 164px;
 }
