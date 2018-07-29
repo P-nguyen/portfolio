@@ -58,7 +58,7 @@ iframe {border: 0;}
   font-size: 20px;
   width: 32px;
   height: 32px;
-  background-color: rgba(100,100,100,.8);
+  background-color: rgba(255,255,255,.8);
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -99,7 +99,7 @@ iframe {border: 0;}
 }
 
 .scroll-down i {
-  color: #fff;
+  color: #333;
   -webkit-animation: scroll-down-icon 1s infinite;
   -moz-animation: scroll-down-icon 1s infinite;
   -o-animation: scroll-down-icon 1s infinite;

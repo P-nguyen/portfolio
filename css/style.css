@@ -557,7 +557,7 @@ p {
   -ms-transition: all 1s ease-in-out;
   -o-transition: all 1s ease-in-out;
   transition: all 1s ease-in-out;
-  background-color: #fff;
+  background-color: rgb(236, 236, 236);
   text-decoration: none;
   box-shadow: 1px 1.732px 12px 0px rgba(0, 0, 0, 0.14), 1px 1.732px 3px 0px rgba(0, 0, 0, 0.12);
 }
@@ -2718,10 +2718,12 @@ input.searchbox:focus {
   height: 100%;
   width: 100%;
   text-align: center;
+  position: relative;
+  top: -10%;
 }
 
 .hero-message h1 {
-  color: #333333;
+  color: #fff;
   font-size: 56px;
   font-weight: 700;
   line-height: 1;
@@ -2730,15 +2732,18 @@ input.searchbox:focus {
 .hero-subtitle {
   text-transform: none;
   font-weight: normal;
-  color: #333333;
-  line-height: 1.5;
-  font-size: 20px;
-  max-width: 800px;
-  margin: 24px auto 0;
+  color: #fff;
+  font-size: 2em;
 }
 
 .buttons-holder > a {
   margin: 5px;
+}
+
+@media screen and (max-width: 767px){
+  .hero-subtitle {
+    font-size: 20px;
+  }
 }
 
 /*-------------------------------------------------------*/
