@@ -2724,6 +2724,7 @@ input.searchbox:focus {
 
 .hero-message h1 {
   color: #fff;
+  text-shadow: 2px 2px #444;
   font-size: 56px;
   font-weight: 700;
   line-height: 1;
