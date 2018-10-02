@@ -1604,8 +1604,8 @@ p {
 .process-wrap img {
   font-size: 32px;
   width: auto;
-  max-height: 120px;
-  line-height: 120px;
+  max-height: 80px;
+  max-width: 80px;
   position: relative;
   top: 50%;
   transform: translateY(-50%);
@@ -3287,7 +3287,7 @@ input.searchbox:focus {
 /* Intro
 -------------------------------------------------------*/
 .section-wrap.intro {
-  padding: 170px 0 150px;
+  /* padding: 170px 0 150px; */
 }
 
 .intro.style-2 .intro-text p {
@@ -3424,15 +3424,17 @@ blockquote > span {
 }
 
 .dropcap.style-2 {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
   float: left;
   color: #fff;
   text-align: center;
-  background-color: #333333;
-  width: 38px;
+  /* background-color: #333333; */
+  /* width: 38px; */
   height: 38px;
   font-size: 24px;
   line-height: 38px;
-  margin: 10px 10px 0 0;
+  /* margin: 10px 10px 0 0; */
 }
 
 .highlight {
