@@ -1428,14 +1428,14 @@ p {
 }
 
 .work-img a.btn {
-  position: absolute;
+  /* position: absolute;
   top: 50%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   -moz-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   -o-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
   height: auto;
   width: auto;
 }
@@ -3603,6 +3603,14 @@ ol.numbers {
 -------------------------------------------------------*/
 .section-buttons .btn {
   margin-bottom: 20px;
+}
+
+.btnSpacing {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
 }
 
 .btn {
