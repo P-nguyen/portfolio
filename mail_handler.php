@@ -65,6 +65,7 @@ $mail->FromName = $message['name'];   // sender's name (shows in "From" field)
 $mail->addAddress( EMAIL_TO_ADDRESS, EMAIL_USERNAME);  // Add a recipient
 //$mail->addAddress('ellen@example.com');                        // Name is optional
 $mail->addReplyTo($message['email'], $message['name']);          // Add a reply-to address
+
 //$mail->addCC('cc@example.com');
 //$mail->addBCC('bcc@example.com');
 
