@@ -19,6 +19,7 @@
         initTextrotator();
         initOnepagenav();
         initPiechart();
+        addAnimationHover();
         
     });
 
@@ -549,4 +550,20 @@ function container_full_height_init(){
     (function($){
         $(".container-full-height").height($(window).height());
     })(jQuery);
+}
+
+/* hover animations
+-------------------------------------------------------*/
+function addAnimationHover(){
+    var projects = $('.work-img');
+    projects.hover(imageSwap,imageSwap);
+}
+
+function imageSwap(){
+    var $parent = $(this);
+    var $el = $parent.children('.gifAnimation');
+    var src = $el.attr('src');
+
+    $el.attr('src', $el.attr('swap'));
+    $el.attr('swap', src);
 }
